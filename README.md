@@ -1,6 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/WhatsApp%20Image%202024-02-02%20at%2012.43.08.jpeg" width="1000"/>  
 
 
+
 <img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="200"/>
 
 
@@ -25,15 +26,3 @@ Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com
 
 Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
 
-
-### Repositório destinado às entregas dos desafios de projeto da formação.
-
-
-<div align="center">
-  <p>
-      <img src="https://img.shields.io/github/languages/count/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/repo-size/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/last-commit/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/issues/alexklenio/DIO-dotnet-developer"/>
-  </p> 
-</div>
