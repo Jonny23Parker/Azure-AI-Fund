@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="200"/>
+<img align="right" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" width="100"/>
 
 
 
@@ -26,3 +26,8 @@ Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com
 
 Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
 
+## Observações e limitações
+
+"Atualmente, estou focando meus recursos em outras prioridades financeiras e optando por um estilo de compras mais consciente e planejado, utilizando métodos de pagamento que melhor se adequam às minhas preferências e situação financeira atual."
+
+Esta frase explica de forma sutil que você está direcionando seus recursos para outras necessidades prioritárias e adotando uma abordagem mais cuidadosa ao fazer compras, sem mencionar diretamente a falta de dinheiro ou a ausência de um cartão de crédito.
